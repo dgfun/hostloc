@@ -3,7 +3,7 @@
 $cookie = "";
 
 // 多账号复制多个,一行一个账号密码
-// $account[] = ['账号', '密码'];
+// $account[] = ['你也是大水笔么', '密码'];
 $account[] = ['账号1', 'password'];
 $account[] = ['账号2', 'password1'];
 
